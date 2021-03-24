@@ -1,3 +1,3 @@
-module github.com/maoxs2/go-cpuaffinity
+module github.com/locetyang/go-cpuaffinity
 
 go 1.13
